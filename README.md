@@ -23,3 +23,6 @@ Through this project, participants gained comprehensive knowledge and practical 
 
 Recommendations:
 Further exploration and practice with Power BI's advanced features, such as custom visuals and advanced analytics, are recommended to enhance proficiency and unlock deeper insights from data.
+
+<img width="581" alt="image" src="https://github.com/vrushm89/Visualization_in_PowerBI/assets/166630143/09de665b-bea3-491b-90c2-7510829796fb">
+
